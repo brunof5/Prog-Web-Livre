@@ -1,0 +1,20 @@
+/Banco de Dados/diagramaBD.mwb.bak
+/src/.env
+
+/src/writable/cache/*
+!/src/writable/cache/index.html
+
+/src/writable/logs/*
+!/src/writable/logs/index.html
+
+/src/writable/session/*
+!/src/writable/session/index.html
+
+/src/writable/uploads/*
+!/src/writable/uploads/index.html
+
+/src/writable/debugbar/*
+!/src/writable/debugbar/.gitkeep
+
+/src/writable/**/*.db
+/src/writable/**/*.sqlite
